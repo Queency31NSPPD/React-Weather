@@ -17,15 +17,15 @@ export default function App() {
       >
         Bridget Nnenna
       </a>
-      and is
+      and is Open-sourced on
       <a
-        href="https://github.com/Queency31NSPPD/Sweet-Weather-App"
+        href="https://github.com/Queency31NSPPD/React-Weather"
         target="_blank"
       >
-        Open-sourced on GitHub
+       GitHub
       </a>
       and
-      <a href="https://incredible-torte-b671ef.netlify.app/" target="_blank">
+      <a href="https://boisterous-lily-f3b5ce.netlify.app/" target="_blank">
         Hosted on Netlify.
       </a>
     </small>
